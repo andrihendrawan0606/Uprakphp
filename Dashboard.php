@@ -20,7 +20,7 @@
         href="https://fonts.googleapis.com/css2?family=Allerta&family=Imbue:wght@200&family=Overlock:wght@700&family=Saira+Condensed:wght@300&family=Sen&family=Staatliches&family=Kaushan+Script&family=Teko&family=Pathway+Gothic+One&display=swap"
         rel="stylesheet">
 
-    <title>Uji Level 3</title>
+    <title>Dashboard</title>
 </head>
 
 <body>
